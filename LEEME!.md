@@ -1,0 +1,3 @@
+- 👋 Hola, Yo soy Gustavo Durán
+- Actualmente estoy iniciandome en el mundo de la programación 🍕
+- ❤ Estudiando HTML!! ❤
